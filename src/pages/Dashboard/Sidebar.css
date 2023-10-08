@@ -1,0 +1,32 @@
+#sidebar {
+    height: 100%;
+    position: fixed;
+    width: 250px;
+    top: 0;
+    left: 0;
+    background-color: #264653;
+    padding-top: 20px;
+    color: white;
+  }
+  
+  #sidebar h3 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  #sidebar ul.components {
+    padding: 20px;
+    border-bottom: 1px solid #222;
+  }
+  
+  #sidebar ul li a {
+    padding: 10px;
+    display: block;
+    color: white;
+    text-decoration: none;
+  }
+  
+  #sidebar ul li a:hover {
+    background-color: #023047;
+  }
+  
